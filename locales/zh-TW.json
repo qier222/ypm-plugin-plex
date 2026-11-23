@@ -1,0 +1,20 @@
+{
+  "服务器地址": "伺服器位址",
+  "Can't reach the server": "連不上伺服器",
+  "Playlists": "歌單",
+  "连接 Plex Media Server": "連線 Plex Media Server",
+  "Plex Media Server 地址，例如 http://127.0.0.1:32400": "Plex Media Server 位址，例如 http://127.0.0.1:32400",
+  "在 Plex 网页版任意媒体条目点「获取信息 → 查看 XML」，浏览器地址栏末尾的 X-Plex-Token 即是": "在 Plex 網頁版任意媒體項目點「取得資訊 → 檢視 XML」，瀏覽器網址列末尾的 X-Plex-Token 即是",
+  "音乐库名称或 ID（可选）": "音樂庫名稱或 ID（選填）",
+  "有多个音乐库时可指定名称或数字 ID，留空则自动使用第一个音乐库": "有多個音樂庫時可指定名稱或數字 ID，留空則自動使用第一個音樂庫",
+  "Fill in the server address and X-Plex-Token in the plugin's settings": "請在插件設定裡填寫伺服器位址和 X-Plex-Token",
+  "That address doesn't answer as a Plex server": "這個位址不是 Plex 伺服器",
+  "Invalid X-Plex-Token": "X-Plex-Token 無效",
+  "No music library found on this Plex server": "在這個 Plex 伺服器上找不到音樂庫",
+  "No playable audio stream found": "找不到可播放的音訊串流",
+  "Shuffle the library": "隨機漫遊",
+  "Anything from your library": "整個曲庫隨便放",
+  "Songs you rarely play": "很少聽的歌",
+  "Through the years, in order": "按年代一路聽下來",
+  "One random album after another": "一張接一張隨機專輯"
+}

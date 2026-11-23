@@ -1,0 +1,20 @@
+{
+  "服务器地址": "Адрес сервера",
+  "Can't reach the server": "Не удалось подключиться к серверу",
+  "Playlists": "Плейлисты",
+  "连接 Plex Media Server": "Подключение к Plex Media Server",
+  "Plex Media Server 地址，例如 http://127.0.0.1:32400": "Адрес Plex Media Server, например http://127.0.0.1:32400",
+  "在 Plex 网页版任意媒体条目点「获取信息 → 查看 XML」，浏览器地址栏末尾的 X-Plex-Token 即是": "В веб-версии Plex откройте «Сведения → Показать XML» у любого элемента; X-Plex-Token указан в конце URL",
+  "音乐库名称或 ID（可选）": "Название или ID музыкальной библиотеки (необязательно)",
+  "有多个音乐库时可指定名称或数字 ID，留空则自动使用第一个音乐库": "Укажите название или числовой ID, если у вас несколько библиотек; оставьте пустым для первой",
+  "Fill in the server address and X-Plex-Token in the plugin's settings": "Укажите адрес сервера и X-Plex-Token в настройках плагина",
+  "That address doesn't answer as a Plex server": "Этот адрес не отвечает как сервер Plex",
+  "Invalid X-Plex-Token": "Недействительный X-Plex-Token",
+  "No music library found on this Plex server": "На этом сервере Plex не найдена музыкальная библиотека",
+  "No playable audio stream found": "Не найден воспроизводимый аудиопоток",
+  "Shuffle the library": "Перемешать библиотеку",
+  "Anything from your library": "Любые треки из вашей библиотеки",
+  "Songs you rarely play": "Редко прослушиваемые треки",
+  "Through the years, in order": "По годам, по порядку",
+  "One random album after another": "Случайные альбомы один за другим"
+}

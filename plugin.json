@@ -1,0 +1,34 @@
+{
+  "id": "plex",
+  "name": "Plex",
+  "version": "0.1.0",
+  "author": "YesPlayMusic",
+  "description": "连接 Plex Media Server",
+  "minAppVersion": "3.0.0",
+  "main": "index.js",
+  "icon": "icon.png",
+  "playback": "stream",
+  "permissions": {
+    "network": ["{setting:server}"]
+  },
+  "settings": [
+    {
+      "key": "server",
+      "label": "服务器地址",
+      "help": "Plex Media Server 地址，例如 http://127.0.0.1:32400"
+    },
+    {
+      "key": "token",
+      "label": "X-Plex-Token",
+      "type": "password",
+      "link": "https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/",
+      "help": "在 Plex 网页版任意媒体条目点「获取信息 → 查看 XML」，浏览器地址栏末尾的 X-Plex-Token 即是"
+    },
+    {
+      "key": "section",
+      "label": "音乐库名称或 ID（可选）",
+      "help": "有多个音乐库时可指定名称或数字 ID，留空则自动使用第一个音乐库"
+    }
+  ],
+  "navigation": [{ "builtin": "home" }, { "builtin": "liked" }, { "builtin": "savedAlbums" }]
+}

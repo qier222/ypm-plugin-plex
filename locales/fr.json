@@ -1,0 +1,20 @@
+{
+  "服务器地址": "Adresse du serveur",
+  "Can't reach the server": "Impossible de joindre le serveur",
+  "Playlists": "Playlists",
+  "连接 Plex Media Server": "Se connecter à un serveur Plex Media Server",
+  "Plex Media Server 地址，例如 http://127.0.0.1:32400": "Adresse du serveur Plex Media Server, par ex. http://127.0.0.1:32400",
+  "在 Plex 网页版任意媒体条目点「获取信息 → 查看 XML」，浏览器地址栏末尾的 X-Plex-Token 即是": "Dans Plex Web, ouvrez Informations → Afficher le XML sur un élément ; X-Plex-Token se trouve à la fin de l'URL",
+  "音乐库名称或 ID（可选）": "Nom ou ID de la bibliothèque musicale (facultatif)",
+  "有多个音乐库时可指定名称或数字 ID，留空则自动使用第一个音乐库": "Indiquez un nom ou un ID numérique si vous avez plusieurs bibliothèques ; laissez vide pour utiliser la première",
+  "Fill in the server address and X-Plex-Token in the plugin's settings": "Renseignez l'adresse du serveur et le X-Plex-Token dans les paramètres du plugin",
+  "That address doesn't answer as a Plex server": "Cette adresse ne répond pas comme un serveur Plex",
+  "Invalid X-Plex-Token": "X-Plex-Token invalide",
+  "No music library found on this Plex server": "Aucune bibliothèque musicale trouvée sur ce serveur Plex",
+  "No playable audio stream found": "Aucun flux audio lisible trouvé",
+  "Shuffle the library": "Lecture aléatoire",
+  "Anything from your library": "Tout ce qui est dans votre bibliothèque",
+  "Songs you rarely play": "Titres rarement écoutés",
+  "Through the years, in order": "Au fil des années, dans l'ordre",
+  "One random album after another": "Un album aléatoire après l'autre"
+}

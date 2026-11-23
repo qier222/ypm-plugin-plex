@@ -1,0 +1,8 @@
+{
+  "服务器地址": "Server address",
+  "连接 Plex Media Server": "Connect to a Plex Media Server",
+  "Plex Media Server 地址，例如 http://127.0.0.1:32400": "Plex Media Server address, e.g. http://127.0.0.1:32400",
+  "在 Plex 网页版任意媒体条目点「获取信息 → 查看 XML」，浏览器地址栏末尾的 X-Plex-Token 即是": "In Plex Web, open any item's Get Info → View XML; X-Plex-Token is at the end of the URL",
+  "音乐库名称或 ID（可选）": "Music library name or ID (optional)",
+  "有多个音乐库时可指定名称或数字 ID，留空则自动使用第一个音乐库": "Specify a name or numeric ID if you have multiple music libraries; leave blank to use the first one"
+}

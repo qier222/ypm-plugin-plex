@@ -1,0 +1,20 @@
+{
+  "服务器地址": "서버 주소",
+  "Can't reach the server": "서버에 연결할 수 없습니다",
+  "Playlists": "플레이리스트",
+  "连接 Plex Media Server": "Plex Media Server에 연결",
+  "Plex Media Server 地址，例如 http://127.0.0.1:32400": "Plex Media Server 주소 (예: http://127.0.0.1:32400)",
+  "在 Plex 网页版任意媒体条目点「获取信息 → 查看 XML」，浏览器地址栏末尾的 X-Plex-Token 即是": "Plex 웹에서 임의 항목의 '정보 가져오기 → XML 보기'를 열면 URL 끝에 X-Plex-Token이 있습니다",
+  "音乐库名称或 ID（可选）": "음악 라이브러리 이름 또는 ID (선택)",
+  "有多个音乐库时可指定名称或数字 ID，留空则自动使用第一个音乐库": "음악 라이브러리가 여러 개인 경우 이름 또는 숫자 ID를 지정하세요. 비워 두면 첫 번째 라이브러리를 사용합니다",
+  "Fill in the server address and X-Plex-Token in the plugin's settings": "플러그인 설정에서 서버 주소와 X-Plex-Token을 입력하세요",
+  "That address doesn't answer as a Plex server": "이 주소는 Plex 서버가 아닙니다",
+  "Invalid X-Plex-Token": "X-Plex-Token이 유효하지 않습니다",
+  "No music library found on this Plex server": "이 Plex 서버에서 음악 라이브러리를 찾을 수 없습니다",
+  "No playable audio stream found": "재생 가능한 오디오 스트림을 찾을 수 없습니다",
+  "Shuffle the library": "라이브러리 셔플",
+  "Anything from your library": "라이브러리 전체에서 무작위 재생",
+  "Songs you rarely play": "자주 듣지 않는 곡",
+  "Through the years, in order": "연대순으로 듣기",
+  "One random album after another": "무작위 앨범 연속 재생"
+}

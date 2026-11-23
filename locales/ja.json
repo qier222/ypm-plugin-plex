@@ -1,0 +1,20 @@
+{
+  "服务器地址": "サーバーアドレス",
+  "Can't reach the server": "サーバーに接続できません",
+  "Playlists": "プレイリスト",
+  "连接 Plex Media Server": "Plex Media Server に接続",
+  "Plex Media Server 地址，例如 http://127.0.0.1:32400": "Plex Media Server のアドレス（例: http://127.0.0.1:32400）",
+  "在 Plex 网页版任意媒体条目点「获取信息 → 查看 XML」，浏览器地址栏末尾的 X-Plex-Token 即是": "Plex Web で任意の項目から「情報を取得 → XML を表示」を開き、URL 末尾の X-Plex-Token をコピーします",
+  "音乐库名称或 ID（可选）": "ミュージックライブラリ名または ID（任意）",
+  "有多个音乐库时可指定名称或数字 ID，留空则自动使用第一个音乐库": "複数のミュージックライブラリがある場合に名前または数値 ID を指定します。空欄の場合は最初のライブラリを使用します",
+  "Fill in the server address and X-Plex-Token in the plugin's settings": "プラグイン設定でサーバーアドレスと X-Plex-Token を入力してください",
+  "That address doesn't answer as a Plex server": "このアドレスは Plex サーバーではありません",
+  "Invalid X-Plex-Token": "X-Plex-Token が無効です",
+  "No music library found on this Plex server": "この Plex サーバーにミュージックライブラリが見つかりません",
+  "No playable audio stream found": "再生可能なオーディオストリームが見つかりません",
+  "Shuffle the library": "ライブラリをシャッフル",
+  "Anything from your library": "ライブラリ全体からランダム再生",
+  "Songs you rarely play": "あまり聴いていない曲",
+  "Through the years, in order": "年代順に聴く",
+  "One random album after another": "ランダムなアルバムを連続再生"
+}

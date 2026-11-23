@@ -1,0 +1,14 @@
+{
+  "Fill in the server address and X-Plex-Token in the plugin's settings": "请在插件设置里填写服务器地址和 X-Plex-Token",
+  "Can't reach the server": "连不上服务器",
+  "That address doesn't answer as a Plex server": "这个地址不是 Plex 服务器",
+  "Invalid X-Plex-Token": "X-Plex-Token 无效",
+  "No music library found on this Plex server": "在这个 Plex 服务器上找不到音乐库",
+  "No playable audio stream found": "找不到可播放的音频流",
+  "Playlists": "歌单",
+  "Shuffle the library": "随机漫游",
+  "Anything from your library": "整个曲库随便放",
+  "Songs you rarely play": "很少听的歌",
+  "Through the years, in order": "按年代一路听下来",
+  "One random album after another": "一张接一张随机专辑"
+}
